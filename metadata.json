@@ -1,0 +1,6 @@
+
+{
+  "name": "AI Music Stem Separator",
+  "description": "An AI-powered web application to upload music, separate it into individual instrumental and vocal tracks (stems), and edit them in a simple digital audio workstation (DAW) interface. Users can adjust volume, mute tracks, and get AI-powered remix suggestions.",
+  "requestFramePermissions": []
+}
